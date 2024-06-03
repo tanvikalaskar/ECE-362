@@ -1,4 +1,4 @@
-##ECE 36200 - Microprocessor Systems and Interfacing
+## ECE 36200 - Microprocessor Systems and Interfacing
 
 A student who successfully fulfills the course requirements will have demonstrated:
 - an ability to program a computer using assembly language. [1,2]
